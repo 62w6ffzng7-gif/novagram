@@ -1,0 +1,15 @@
+{
+  "name": "NovaGram",
+  "short_name": "NovaGram",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f11",
+  "theme_color": "#0a84ff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
