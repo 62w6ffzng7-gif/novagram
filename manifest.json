@@ -1,18 +1,20 @@
 {
-  "id": "/",
-  "name": "NovaGram",
-  "short_name": "NovaGram",
-  "description": "NovaGram - твой новый мессенджер с подарками и звездами.",
-  "start_url": "/",
-  "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#0f0f11",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "NovaGram",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "NovaGram",
+  "start_url": "/",
   "theme_color": "#0a84ff",
+  "description": "NovaGram - твой новый мессенджер с подарками и звездами.",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
