@@ -1,8 +1,11 @@
 {
+  "id": "/",
   "name": "NovaGram",
   "short_name": "NovaGram",
+  "description": "NovaGram - твой новый мессенджер с подарками и звездами.",
   "start_url": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0f0f11",
   "theme_color": "#0a84ff",
   "icons": [
